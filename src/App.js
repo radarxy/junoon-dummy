@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Kyu Kya hua, nope
+          Kyu Kya hua, nope,kuvh ni
         </a>
       </header>
     </div>
